@@ -3,4 +3,4 @@ resolusi 2023
 - Saya mau konsisten belajar bikin web
 - Menyelesaikan Paper permintaan Ibu Anik
 - Saya bisa membuat Buku mengenai Stochastic Frontier  
-- Saya bisa ahli dalam membuat FrontEnd dan Back End
+- Belajar lebih dalam lagi tentang bahasa Python
