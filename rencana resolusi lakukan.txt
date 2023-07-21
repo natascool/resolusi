@@ -5,6 +5,7 @@ Rencana Resolusi
   > ES6
   > Framework Javascript
     # Vue
+    # React
 * Belajar Sturktur Data
 * ikut kelas online vue
   # Laravel
