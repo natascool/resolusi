@@ -4,5 +4,6 @@ Rencana Resolusi
 * ikut kelas online javascript
   > ES6
   > Framework Javascript
+* Belajar Sturktur Data
 * ikut kelas online vue
 * ikut kelas online backend
