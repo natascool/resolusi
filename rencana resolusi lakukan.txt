@@ -1,0 +1,8 @@
+Rencana Resolusi
+
+* Kedepannya ikut kelas online php laravel
+* ikut kelas online javascript
+  > ES6
+  > Framework Javascript
+* ikut kelas online vue
+* ikut kelas online backend
